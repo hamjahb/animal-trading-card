@@ -1,6 +1,15 @@
-# animal-trading-card
+# Animal-Trading-Card
 
-Project intro:
-this is a basic layout for a trading card design.
+## Project intro:
 
-languages used HTML and CSS
+This project was created for for Udacity's intro to programming nanodegree
+
+## Languages Used:
+
+This project was fully made in HTML and CSS.
+
+
+## Testing Web Page:
+
+- Download files
+- Open index file in a web browser
